@@ -33,7 +33,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - RAMYA P(23006111)</title>
+    <title>SLOT TIME TABLE - MOHAMED AAKIF ASRAR S</title>
     <style>
         table {
             border-collapse: collapse;
@@ -69,49 +69,53 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - RAMYA P(23006111)</strong></p>
+        <p><strong>SLOT TIME TABLE - MOHAMED AAKIF ASRAR S(23003613)</strong></p>
     </div>
     <table>
         <tr>
-            <th colspan="1" bgcolor="Yellow">Day/Time</th>
-            <th colspan="1" bgcolor="Yellow">Monday</th>
-            <th colspan="1" bgcolor="Yellow">Tuesday</th>
-            <th colspan="1" bgcolor="Yellow">Wednesday</th>
-            <th colspan="1" bgcolor="Yellow">Thursday</th>
-            <th colspan="1" bgcolor="Yellow">Friday</th>
+            <th colspan="1" bgcolor="White">Day/Time</th>
+            <th colspan="1" bgcolor="GREY">Monday</th>
+            <th colspan="1" bgcolor="GREY">Tuesday</th>
+            <th colspan="1" bgcolor="GREY">Wednesday</th>
+            <th colspan="1" bgcolor="GREY">Thursday</th>
+            <th colspan="1" bgcolor="GREY">Friday</th>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">8-10</th>
-            <th colspan="3" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">10-12</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
+            <th colspan="1" bgcolor="GREY">8-10</th>
             <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
+            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">C</th>
+            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">WEB</th>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">12-1</th>
-            <th colspan="5" bgcolor="Cyan">LUNCH</th>
+            <th colspan="1" bgcolor="GREY">10-12</th>
+            <th colspan="1" bgcolor="Cyan">C</th>
+            <th colspan="1" bgcolor="Cyan">ESBD</th>
+            <th colspan="1" bgcolor="Cyan">WEB</th>
+            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">ML</th>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">1-3</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">SS</th>
+            <th colspan="1" bgcolor="GREY">12-1</th>
+            <th colspan="5" bgcolor="GREY">LUNCH</th>
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="GREY">1-3</th>
+            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
+            <th colspan="1" bgcolor="Cyan">MENTOR MEET</th>
+            <th colspan="1" bgcolor="Cyan">ESBD</th>
+            <th colspan="1" bgcolor="Cyan">EMPD</th>
         </tr>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">3-5</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
+            <th colspan="1" bgcolor="GREY">3-5</th>
+            <th colspan="1" bgcolor="Cyan">EMPD</th>
+            <th colspan="1" bgcolor="Cyan">WEB</th>
+            <th colspan="1" bgcolor="Cyan">TRANSFORM</th>
+            <th colspan="1" bgcolor="Cyan">ML</th>
+            <th colspan="1" bgcolor="Cyan">TRANSFORM</th>
         </tr>
     </table>
 
@@ -123,33 +127,33 @@ Execute the program using runserver command.
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">1.</th>
-            <th colspan="1" bgcolor="White">19AI41</th>
+            <th colspan="1" bgcolor="White">19AI414</th>
             <th colspan="2" bgcolor="White">Fundamentals of Web Application Development(FWAD)</th>
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">2.</th>
-            <th colspan="1" bgcolor="White">19EN612</th>
-            <th colspan="2" bgcolor="White">German Basic (GER)</th>        
+            <th colspan="1" bgcolor="White">19AI304</th>
+            <th colspan="2" bgcolor="White">Fundamentals of C</th>        
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">3.</th>
-            <th colspan="1" bgcolor="White">19PH206</th>
-            <th colspan="2" bgcolor="White">Physics for Information Technology (PHY)</th> 
+            <th colspan="1" bgcolor="White">19AI410</th>
+            <th colspan="2" bgcolor="White">Introduction to machine learning</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">4.</th>
-            <th colspan="1" bgcolor="White">19CY205</th>
-            <th colspan="2" bgcolor="White">Principles of Chemistry in Engineering (CHE)</th> 
+            <th colspan="1" bgcolor="White">19AI303</th>
+            <th colspan="2" bgcolor="White">Engineering Mechanics and Product Development(EMPD)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">5.</th>
-            <th colspan="1" bgcolor="White">19MA201</th>
-            <th colspan="2" bgcolor="White">Calculus and Matrix Algebra (MAT)</th> 
+            <th colspan="1" bgcolor="White">19CS570</th>
+            <th colspan="2" bgcolor="White">Entrepreneurship and Small Business Development(ESBD)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">6.</th>
-            <th colspan="1" bgcolor="White">19EY701</th>
-            <th colspan="2" bgcolor="White">Soft Skills (SS)</th> 
+            <th colspan="1" bgcolor="White">19MA219</th>
+            <th colspan="2" bgcolor="White">Transforms and Its Applications</th> 
         </tr>
     </table>
 </body>
